@@ -4,8 +4,11 @@ this is a temporary github repo to share an executable of a simple game project.
 
 # Controls
 wasd  -  movement keys
+
 mouse -  look
+
 esc   -  closes the game
+
 f     -  go to default coordinates
 
 
